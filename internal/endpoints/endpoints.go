@@ -219,8 +219,8 @@ func handleMainEndpoint(w http.ResponseWriter, r *http.Request) {
 			if !democracyFound {
 				contents += "We could not find your democracy score.<br>\n"
 			} else {
-				contents += "Democracy score: " + fmt.Sprintf("%f", score) + "<br>\n"
-				contents += "<i>Democracies scoring " + fmt.Sprintf("%f", minimumScore) + " or higher are considered democracies.</i><br>\n"
+				contents += "Democracy score: " + fmt.Sprintf("%0.2f", score) + "<br>\n"
+				contents += "<i>Countries scoring " + fmt.Sprintf("%0.2f", minimumScore) + " or higher are considered democracies.  See <a href=\"https://worldpopulationreview.com/country-rankings/democracy-countries\">this link</a> for more details.</i><br>\n"
 			}
 		}
 		contents += "</div>\n"
