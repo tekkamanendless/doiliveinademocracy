@@ -1,0 +1,1639 @@
+[
+  {
+    "country": "Norway",
+    "democracyScore": "9.8700",
+    "pluralism": 10,
+    "government": "9.6400",
+    "politicalParticipation": 10,
+    "politicalCulture": 10,
+    "civilLiberties": "9.7100",
+    "pop2021": "5465.6300"
+  },
+  {
+    "country": "Iceland",
+    "democracyScore": "9.5800",
+    "pluralism": 10,
+    "government": "9.2900",
+    "politicalParticipation": "8.8900",
+    "politicalCulture": 10,
+    "civilLiberties": "9.7100",
+    "pop2021": "343.3530"
+  },
+  {
+    "country": "Sweden",
+    "democracyScore": "9.3900",
+    "pluralism": "9.5800",
+    "government": "9.6400",
+    "politicalParticipation": "8.3300",
+    "politicalCulture": 10,
+    "civilLiberties": "9.4100",
+    "pop2021": "10160.1690"
+  },
+  {
+    "country": "New Zealand",
+    "democracyScore": "9.2600",
+    "pluralism": 10,
+    "government": "9.2900",
+    "politicalParticipation": "8.8900",
+    "politicalCulture": "8.1300",
+    "civilLiberties": 10,
+    "pop2021": "4860.6430"
+  },
+  {
+    "country": "Finland",
+    "democracyScore": "9.2500",
+    "pluralism": 10,
+    "government": "8.9300",
+    "politicalParticipation": "8.8900",
+    "politicalCulture": "8.7500",
+    "civilLiberties": "9.7100",
+    "pop2021": "5548.3600"
+  },
+  {
+    "country": "Ireland",
+    "democracyScore": "9.2400",
+    "pluralism": 10,
+    "government": "7.8600",
+    "politicalParticipation": "8.3300",
+    "politicalCulture": 10,
+    "civilLiberties": 10,
+    "pop2021": "4982.9070"
+  },
+  {
+    "country": "Denmark",
+    "democracyScore": "9.2200",
+    "pluralism": 10,
+    "government": "9.2900",
+    "politicalParticipation": "8.3300",
+    "politicalCulture": "9.3800",
+    "civilLiberties": "9.1200",
+    "pop2021": "5813.2980"
+  },
+  {
+    "country": "Canada",
+    "democracyScore": "9.2200",
+    "pluralism": "9.5800",
+    "government": "9.6400",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "9.3800",
+    "civilLiberties": "9.7100",
+    "pop2021": "38067.9030"
+  },
+  {
+    "country": "Australia",
+    "democracyScore": "9.0900",
+    "pluralism": 10,
+    "government": "8.9300",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "8.7500",
+    "civilLiberties": 10,
+    "pop2021": "25788.2150"
+  },
+  {
+    "country": "Switzerland",
+    "democracyScore": "9.0300",
+    "pluralism": "9.5800",
+    "government": "9.2900",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "9.3800",
+    "civilLiberties": "9.1200",
+    "pop2021": "8715.4940"
+  },
+  {
+    "country": "Netherlands",
+    "democracyScore": "9.0100",
+    "pluralism": "9.5800",
+    "government": "9.2900",
+    "politicalParticipation": "8.3300",
+    "politicalCulture": "8.7500",
+    "civilLiberties": "9.1200",
+    "pop2021": "17173.0990"
+  },
+  {
+    "country": "Luxembourg",
+    "democracyScore": "8.8100",
+    "pluralism": 10,
+    "government": "8.9300",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "8.7500",
+    "civilLiberties": "9.7100",
+    "pop2021": "634.8140"
+  },
+  {
+    "country": "Germany",
+    "democracyScore": "8.6800",
+    "pluralism": "9.5800",
+    "government": "8.5700",
+    "politicalParticipation": "8.3300",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "9.1200",
+    "pop2021": "83900.4730"
+  },
+  {
+    "country": "United Kingdom",
+    "democracyScore": "8.5200",
+    "pluralism": "9.5800",
+    "government": "7.5000",
+    "politicalParticipation": "8.8900",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "9.1200",
+    "pop2021": "68207.1160"
+  },
+  {
+    "country": "Uruguay",
+    "democracyScore": "8.3800",
+    "pluralism": 10,
+    "government": "8.5700",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "9.7100",
+    "pop2021": "3485.1510"
+  },
+  {
+    "country": "Austria",
+    "democracyScore": "8.2900",
+    "pluralism": "9.5800",
+    "government": "7.1400",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "8.1300",
+    "civilLiberties": "8.8200",
+    "pop2021": "9043.0700"
+  },
+  {
+    "country": "Spain",
+    "democracyScore": "8.2900",
+    "pluralism": "9.5800",
+    "government": "7.1400",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "8.1300",
+    "civilLiberties": "8.8200",
+    "pop2021": "46745.2160"
+  },
+  {
+    "country": "Mauritius",
+    "democracyScore": "8.2200",
+    "pluralism": "9.1700",
+    "government": "8.2100",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "8.7500",
+    "civilLiberties": "9.4100",
+    "pop2021": "1273.4330"
+  },
+  {
+    "country": "Costa Rica",
+    "democracyScore": "8.1300",
+    "pluralism": "9.5800",
+    "government": "7.5000",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "9.4100",
+    "pop2021": "5139.0520"
+  },
+  {
+    "country": "France",
+    "democracyScore": "8.1200",
+    "pluralism": "9.5800",
+    "government": "7.5000",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "9.4100",
+    "pop2021": "65426.1790"
+  },
+  {
+    "country": "Chile",
+    "democracyScore": "8.0800",
+    "pluralism": "9.5800",
+    "government": "7.8600",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "8.5300",
+    "pop2021": "19212.3610"
+  },
+  {
+    "country": "Portugal",
+    "democracyScore": "8.0300",
+    "pluralism": "9.5800",
+    "government": "7.8600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "9.1200",
+    "pop2021": "10167.9250"
+  },
+  {
+    "country": "South Korea",
+    "democracyScore": 8,
+    "pluralism": "9.1700",
+    "government": "7.8600",
+    "politicalParticipation": "7.2200",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "8.2400",
+    "pop2021": "51305.1860"
+  },
+  {
+    "country": "Japan",
+    "democracyScore": "7.9900",
+    "pluralism": "8.7500",
+    "government": "8.2100",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "8.8200",
+    "pop2021": "126050.8040"
+  },
+  {
+    "country": "United States",
+    "democracyScore": "7.9600",
+    "pluralism": "9.1700",
+    "government": "7.1400",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "8.2400",
+    "pop2021": "332915.0730"
+  },
+  {
+    "country": "Malta",
+    "democracyScore": "7.9500",
+    "pluralism": "9.1700",
+    "government": "7.5000",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "8.1300",
+    "civilLiberties": "8.8200",
+    "pop2021": "442.7840"
+  },
+  {
+    "country": "Estonia",
+    "democracyScore": "7.9000",
+    "pluralism": "9.5800",
+    "government": "7.8600",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "8.5300",
+    "pop2021": "1325.1850"
+  },
+  {
+    "country": "Israel",
+    "democracyScore": "7.8600",
+    "pluralism": "9.1700",
+    "government": "7.8600",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "8.5300",
+    "pop2021": "8789.7740"
+  },
+  {
+    "country": "Botswana",
+    "democracyScore": "7.8100",
+    "pluralism": "9.1700",
+    "government": "7.1400",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "9.1200",
+    "pop2021": "2397.2410"
+  },
+  {
+    "country": "Cape Verde",
+    "democracyScore": "7.7800",
+    "pluralism": "9.1700",
+    "government": "7.3600",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "8.8200",
+    "pop2021": "561.8980"
+  },
+  {
+    "country": "Taiwan",
+    "democracyScore": "7.7300",
+    "pluralism": "9.5800",
+    "government": "8.2100",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "9.1200",
+    "pop2021": "23855.0100"
+  },
+  {
+    "country": "Czech Republic",
+    "democracyScore": "7.6900",
+    "pluralism": "9.5800",
+    "government": "6.7900",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "8.5300",
+    "pop2021": "10724.5550"
+  },
+  {
+    "country": "Belgium",
+    "democracyScore": "7.6400",
+    "pluralism": "9.5800",
+    "government": "8.2100",
+    "politicalParticipation": 5,
+    "politicalCulture": "6.8800",
+    "civilLiberties": "8.5300",
+    "pop2021": "11632.3260"
+  },
+  {
+    "country": "Cyprus",
+    "democracyScore": "7.5900",
+    "pluralism": "9.1700",
+    "government": "6.4300",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "8.8200",
+    "pop2021": "1215.5840"
+  },
+  {
+    "country": "Italy",
+    "democracyScore": "7.5200",
+    "pluralism": "9.5800",
+    "government": "6.0700",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "7.9400",
+    "pop2021": "60367.4770"
+  },
+  {
+    "country": "Slovenia",
+    "democracyScore": "7.5000",
+    "pluralism": "9.5800",
+    "government": "6.7900",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "8.2400",
+    "pop2021": "2078.7240"
+  },
+  {
+    "country": "Lithuania",
+    "democracyScore": "7.5000",
+    "pluralism": "9.5800",
+    "government": "6.4300",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "8.2400",
+    "pop2021": "2689.8620"
+  },
+  {
+    "country": "Latvia",
+    "democracyScore": "7.4900",
+    "pluralism": "9.5800",
+    "government": "6.0700",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "8.8200",
+    "pop2021": "1866.9420"
+  },
+  {
+    "country": "Greece",
+    "democracyScore": "7.4300",
+    "pluralism": "9.5800",
+    "government": "4.8600",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "8.5300",
+    "pop2021": "10370.7440"
+  },
+  {
+    "country": "South Africa",
+    "democracyScore": "7.2400",
+    "pluralism": "7.4200",
+    "government": "7.5000",
+    "politicalParticipation": "8.3300",
+    "politicalCulture": 5,
+    "civilLiberties": "7.9400",
+    "pop2021": "60041.9940"
+  },
+  {
+    "country": "Timor-Leste",
+    "democracyScore": "7.1900",
+    "pluralism": "9.5800",
+    "government": "6.2900",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "7.6500",
+    "pop2021": "1343.8730"
+  },
+  {
+    "country": "Slovakia",
+    "democracyScore": "7.1700",
+    "pluralism": "9.5800",
+    "government": "7.1400",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "7.9400",
+    "pop2021": "5460.7210"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "democracyScore": "7.1600",
+    "pluralism": "9.5800",
+    "government": "7.1400",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "7.3500",
+    "pop2021": "1403.3750"
+  },
+  {
+    "country": "Malaysia",
+    "democracyScore": "7.1600",
+    "pluralism": "9.1700",
+    "government": "7.8600",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "5.8800",
+    "pop2021": "32776.1940"
+  },
+  {
+    "country": "Colombia",
+    "democracyScore": "7.1300",
+    "pluralism": "9.1700",
+    "government": "6.7900",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "8.5300",
+    "pop2021": "51265.8440"
+  },
+  {
+    "country": "Panama",
+    "democracyScore": "7.0500",
+    "pluralism": "9.5800",
+    "government": "6.0700",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": 5,
+    "civilLiberties": "7.9400",
+    "pop2021": "4381.5790"
+  },
+  {
+    "country": "Bulgaria",
+    "democracyScore": "7.0300",
+    "pluralism": "9.1700",
+    "government": "6.4300",
+    "politicalParticipation": "7.2200",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "7.9400",
+    "pop2021": "6896.6630"
+  },
+  {
+    "country": "Argentina",
+    "democracyScore": "7.0200",
+    "pluralism": "9.1700",
+    "government": "6.4300",
+    "politicalParticipation": "7.2200",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "7.9400",
+    "pop2021": "45605.8260"
+  },
+  {
+    "country": "Suriname",
+    "democracyScore": "6.9800",
+    "pluralism": "9.1700",
+    "government": "6.4300",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": 5,
+    "civilLiberties": "7.6500",
+    "pop2021": "591.8000"
+  },
+  {
+    "country": "Jamaica",
+    "democracyScore": "6.9600",
+    "pluralism": "8.7500",
+    "government": "7.1400",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "8.2400",
+    "pop2021": "2973.4630"
+  },
+  {
+    "country": "India",
+    "democracyScore": "6.9000",
+    "pluralism": "8.6700",
+    "government": "6.7900",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "6.7600",
+    "pop2021": "1393409.0380"
+  },
+  {
+    "country": "Brazil",
+    "democracyScore": "6.8600",
+    "pluralism": "9.5800",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": 5,
+    "civilLiberties": "8.2400",
+    "pop2021": "213993.4370"
+  },
+  {
+    "country": "Tunisia",
+    "democracyScore": "6.7200",
+    "pluralism": "9.1700",
+    "government": "5.7100",
+    "politicalParticipation": "7.2200",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "5.8800",
+    "pop2021": "11935.7660"
+  },
+  {
+    "country": "Philippines",
+    "democracyScore": "6.6400",
+    "pluralism": "9.1700",
+    "government": "5.3600",
+    "politicalParticipation": "7.2200",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "7.0600",
+    "pop2021": "111046.9130"
+  },
+  {
+    "country": "Hungary",
+    "democracyScore": "6.6300",
+    "pluralism": "8.7500",
+    "government": "6.0700",
+    "politicalParticipation": 5,
+    "politicalCulture": "6.2500",
+    "civilLiberties": "7.0600",
+    "pop2021": "9634.1640"
+  },
+  {
+    "country": "Ghana",
+    "democracyScore": "6.6300",
+    "pluralism": "8.3300",
+    "government": "5.7100",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "6.1800",
+    "pop2021": "31732.1290"
+  },
+  {
+    "country": "Poland",
+    "democracyScore": "6.6200",
+    "pluralism": "9.1700",
+    "government": "6.0700",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "7.3500",
+    "pop2021": "37797.0050"
+  },
+  {
+    "country": "Peru",
+    "democracyScore": "6.6000",
+    "pluralism": "9.1700",
+    "government": 5,
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "7.6500",
+    "pop2021": "33359.4180"
+  },
+  {
+    "country": "Croatia",
+    "democracyScore": "6.5700",
+    "pluralism": "9.1700",
+    "government": "6.0700",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": 5,
+    "civilLiberties": "7.0600",
+    "pop2021": "4081.6510"
+  },
+  {
+    "country": "Lesotho",
+    "democracyScore": "6.5400",
+    "pluralism": "9.1700",
+    "government": "4.5000",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "6.7600",
+    "pop2021": "2159.0790"
+  },
+  {
+    "country": "Dominican Republic",
+    "democracyScore": "6.5400",
+    "pluralism": "9.1700",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": 5,
+    "civilLiberties": "7.0600",
+    "pop2021": "10953.7030"
+  },
+  {
+    "country": "Mongolia",
+    "democracyScore": "6.5000",
+    "pluralism": "9.1700",
+    "government": "5.7100",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": 5,
+    "civilLiberties": "7.0600",
+    "pop2021": "3329.2890"
+  },
+  {
+    "country": "Romania",
+    "democracyScore": "6.4900",
+    "pluralism": "9.1700",
+    "government": "5.7100",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "7.6500",
+    "pop2021": "19127.7740"
+  },
+  {
+    "country": "Indonesia",
+    "democracyScore": "6.4800",
+    "pluralism": "7.9200",
+    "government": "7.1400",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "5.5900",
+    "pop2021": "276361.7830"
+  },
+  {
+    "country": "Namibia",
+    "democracyScore": "6.4300",
+    "pluralism": "6.5800",
+    "government": "5.3600",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "7.9400",
+    "pop2021": "2587.3440"
+  },
+  {
+    "country": "Serbia",
+    "democracyScore": "6.4100",
+    "pluralism": "8.2500",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": 5,
+    "civilLiberties": "7.3500",
+    "pop2021": "8697.5500"
+  },
+  {
+    "country": "Ecuador",
+    "democracyScore": "6.3300",
+    "pluralism": "8.7500",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "7.0600",
+    "pop2021": "17888.4750"
+  },
+  {
+    "country": "Thailand",
+    "democracyScore": "6.3200",
+    "pluralism": "7.4200",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "6.4700",
+    "pop2021": "69950.8500"
+  },
+  {
+    "country": "Sri Lanka",
+    "democracyScore": "6.2700",
+    "pluralism": 7,
+    "government": "6.0700",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "6.4700",
+    "pop2021": "21497.3100"
+  },
+  {
+    "country": "Paraguay",
+    "democracyScore": "6.2400",
+    "pluralism": "8.7500",
+    "government": "5.7100",
+    "politicalParticipation": 5,
+    "politicalCulture": "4.3800",
+    "civilLiberties": "7.3500",
+    "pop2021": "7219.6380"
+  },
+  {
+    "country": "Guyana",
+    "democracyScore": "6.1500",
+    "pluralism": "6.9200",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": 5,
+    "civilLiberties": "7.3500",
+    "pop2021": "790.3260"
+  },
+  {
+    "country": "El Salvador",
+    "democracyScore": "6.1500",
+    "pluralism": "9.1700",
+    "government": "4.6400",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "7.0600",
+    "pop2021": "6518.4990"
+  },
+  {
+    "country": "Mexico",
+    "democracyScore": "6.0900",
+    "pluralism": "7.8300",
+    "government": "6.0700",
+    "politicalParticipation": "7.2200",
+    "politicalCulture": "3.1300",
+    "civilLiberties": "6.1800",
+    "pop2021": "130262.2160"
+  },
+  {
+    "country": "Papua New Guinea",
+    "democracyScore": "6.0300",
+    "pluralism": "6.9200",
+    "government": "6.0700",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "7.6500",
+    "pop2021": "9119.0100"
+  },
+  {
+    "country": "Singapore",
+    "democracyScore": "6.0200",
+    "pluralism": "3.9200",
+    "government": "7.8600",
+    "politicalParticipation": 5,
+    "politicalCulture": "6.2500",
+    "civilLiberties": "7.0600",
+    "pop2021": "5896.6860"
+  },
+  {
+    "country": "Hong Kong",
+    "democracyScore": "6.0200",
+    "pluralism": "3.5800",
+    "government": "4.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "7.5000",
+    "civilLiberties": "8.5300",
+    "pop2021": "7552.8100"
+  },
+  {
+    "country": "North Macedonia",
+    "democracyScore": "5.9700",
+    "pluralism": 7,
+    "government": "5.3600",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "7.0600",
+    "pop2021": "2082.6580"
+  },
+  {
+    "country": "Ukraine",
+    "democracyScore": "5.9000",
+    "pluralism": "7.4200",
+    "government": "2.7100",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "6.4700",
+    "pop2021": "43466.8190"
+  },
+  {
+    "country": "Albania",
+    "democracyScore": "5.8900",
+    "pluralism": 7,
+    "government": "5.3600",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": 5,
+    "civilLiberties": "7.6500",
+    "pop2021": "2872.9330"
+  },
+  {
+    "country": "Bangladesh",
+    "democracyScore": "5.8800",
+    "pluralism": "7.8300",
+    "government": "6.0700",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "4.3800",
+    "civilLiberties": 5,
+    "pop2021": "166303.4980"
+  },
+  {
+    "country": "Fiji",
+    "democracyScore": "5.8500",
+    "pluralism": "6.5800",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "5.5900",
+    "pop2021": "902.9060"
+  },
+  {
+    "country": "Senegal",
+    "democracyScore": "5.8100",
+    "pluralism": "6.0800",
+    "government": "6.0700",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "6.1800",
+    "pop2021": "17196.3010"
+  },
+  {
+    "country": "Moldova",
+    "democracyScore": "5.7500",
+    "pluralism": "6.5800",
+    "government": "4.6400",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "7.0600",
+    "pop2021": "4024.0190"
+  },
+  {
+    "country": "Montenegro",
+    "democracyScore": "5.6500",
+    "pluralism": "5.6700",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "6.7600",
+    "pop2021": "628.0530"
+  },
+  {
+    "country": "Madagascar",
+    "democracyScore": "5.6400",
+    "pluralism": "7.9200",
+    "government": "3.5700",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "5.6300",
+    "civilLiberties": 5,
+    "pop2021": "28427.3280"
+  },
+  {
+    "country": "Armenia",
+    "democracyScore": "5.5400",
+    "pluralism": "7.5000",
+    "government": "5.3600",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "3.1300",
+    "civilLiberties": "0.5600",
+    "pop2021": "2968.1270"
+  },
+  {
+    "country": "Malawi",
+    "democracyScore": "5.5000",
+    "pluralism": "6.0800",
+    "government": "4.2900",
+    "politicalParticipation": 5,
+    "civilLiberties": "5.8800",
+    "pop2021": "19647.6840"
+  },
+  {
+    "country": "Liberia",
+    "democracyScore": "5.4500",
+    "pluralism": "7.4200",
+    "government": "3.0700",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "5.5900",
+    "pop2021": "5180.2030"
+  },
+  {
+    "country": "Georgia",
+    "democracyScore": "5.4200",
+    "pluralism": "7.8300",
+    "government": "3.2100",
+    "politicalParticipation": "6.1100",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "5.5900",
+    "pop2021": "3979.7650"
+  },
+  {
+    "country": "Honduras",
+    "democracyScore": "5.4200",
+    "pluralism": "7.8300",
+    "government": "4.2900",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "6.1800",
+    "pop2021": "10062.9910"
+  },
+  {
+    "country": "Bhutan",
+    "democracyScore": "5.3000",
+    "pluralism": "8.7500",
+    "government": "6.7900",
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "3.8200",
+    "pop2021": "779.8980"
+  },
+  {
+    "country": "Nepal",
+    "democracyScore": "5.2800",
+    "pluralism": "4.8300",
+    "government": "5.3600",
+    "politicalParticipation": 5,
+    "politicalCulture": "5.6300",
+    "civilLiberties": "5.5900",
+    "pop2021": "29674.9200"
+  },
+  {
+    "country": "Guatemala",
+    "democracyScore": "5.2600",
+    "pluralism": "6.9200",
+    "government": "4.6400",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "6.4700",
+    "pop2021": "18249.8600"
+  },
+  {
+    "country": "Kenya",
+    "democracyScore": "5.1800",
+    "pluralism": "3.5000",
+    "government": "5.7100",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "4.4100",
+    "pop2021": "54985.6980"
+  },
+  {
+    "country": "Tanzania",
+    "democracyScore": "5.1600",
+    "pluralism": "5.7500",
+    "government": 5,
+    "politicalParticipation": 5,
+    "politicalCulture": "5.6300",
+    "civilLiberties": "4.4100",
+    "pop2021": "61498.4370"
+  },
+  {
+    "country": "Morocco",
+    "democracyScore": "5.1000",
+    "pluralism": "5.2500",
+    "government": "4.6400",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "4.4100",
+    "pop2021": "37344.7950"
+  },
+  {
+    "country": "Benin",
+    "democracyScore": "5.0900",
+    "pluralism": "4.6700",
+    "government": "5.7100",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "0.5000",
+    "pop2021": "12451.0400"
+  },
+  {
+    "country": "Zambia",
+    "democracyScore": "5.0900",
+    "pluralism": "4.7500",
+    "government": "2.9300",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "6.4700",
+    "pop2021": "18920.6510"
+  },
+  {
+    "country": "Uganda",
+    "democracyScore": "5.0200",
+    "pluralism": "4.3300",
+    "government": "3.5700",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "5.8800",
+    "pop2021": "47123.5310"
+  },
+  {
+    "country": "Mali",
+    "democracyScore": "4.9200",
+    "pluralism": "6.4200",
+    "government": "3.0700",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "5.5900",
+    "pop2021": "20855.7350"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "democracyScore": "4.8900",
+    "pluralism": "6.0800",
+    "government": "2.9300",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": "3.7500",
+    "civilLiberties": 5,
+    "pop2021": "6628.3560"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "democracyScore": "4.8600",
+    "pluralism": "6.1700",
+    "government": "2.9300",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "5.8800",
+    "pop2021": "3263.4660"
+  },
+  {
+    "country": "Sierra Leone",
+    "democracyScore": "4.8600",
+    "pluralism": "6.5800",
+    "government": "2.8600",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "5.2900",
+    "pop2021": "8141.3430"
+  },
+  {
+    "country": "Bolivia",
+    "democracyScore": "4.8400",
+    "pluralism": "4.7500",
+    "government": "3.9300",
+    "politicalParticipation": 5,
+    "politicalCulture": "3.7500",
+    "civilLiberties": "6.7600",
+    "pop2021": "11832.9400"
+  },
+  {
+    "country": "Haiti",
+    "democracyScore": "4.5700",
+    "pluralism": "4.7500",
+    "government": "2.0700",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "5.8800",
+    "pop2021": "11541.6850"
+  },
+  {
+    "country": "Lebanon",
+    "democracyScore": "4.3600",
+    "pluralism": "3.9200",
+    "government": "1.5000",
+    "politicalParticipation": "6.6700",
+    "politicalCulture": 5,
+    "civilLiberties": "4.7100",
+    "pop2021": "6769.1460"
+  },
+  {
+    "country": "Gambia",
+    "democracyScore": "4.3300",
+    "pluralism": 4,
+    "government": "4.2900",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "4.4100",
+    "pop2021": "2486.9450"
+  },
+  {
+    "country": "Pakistan",
+    "democracyScore": "4.2500",
+    "pluralism": "6.0800",
+    "government": "5.7100",
+    "politicalParticipation": "2.2200",
+    "politicalCulture": "2.5000",
+    "civilLiberties": "4.7100",
+    "pop2021": "225199.9370"
+  },
+  {
+    "country": "Nigeria",
+    "democracyScore": "4.1200",
+    "pluralism": "5.1700",
+    "government": "3.9300",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "4.4100",
+    "pop2021": "211400.7080"
+  },
+  {
+    "country": "Turkey",
+    "democracyScore": "4.0900",
+    "pluralism": "3.0800",
+    "government": 5,
+    "politicalParticipation": 5,
+    "politicalCulture": 5,
+    "civilLiberties": "4.1200",
+    "pop2021": "85042.7380"
+  },
+  {
+    "country": "Ivory Coast",
+    "democracyScore": "4.0500",
+    "pluralism": "4.3300",
+    "government": "2.8600",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "4.1200",
+    "pop2021": "27053.6290"
+  },
+  {
+    "country": "Burkina Faso",
+    "democracyScore": "4.0400",
+    "pluralism": "3.9200",
+    "government": "2.7100",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": 5,
+    "civilLiberties": "4.1200",
+    "pop2021": "21497.0960"
+  },
+  {
+    "country": "Algeria",
+    "democracyScore": "4.0100",
+    "pluralism": "3.0800",
+    "government": "2.8600",
+    "politicalParticipation": 5,
+    "politicalCulture": 5,
+    "civilLiberties": "4.1200",
+    "pop2021": "44616.6240"
+  },
+  {
+    "country": "Kuwait",
+    "democracyScore": "3.9300",
+    "pluralism": "3.5800",
+    "government": "4.2900",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "3.5300",
+    "pop2021": "4328.5500"
+  },
+  {
+    "country": "Jordan",
+    "democracyScore": "3.9300",
+    "pluralism": "3.5800",
+    "government": "4.2900",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "3.5300",
+    "pop2021": "10269.0210"
+  },
+  {
+    "country": "Mauritania",
+    "democracyScore": "3.9200",
+    "pluralism": "3.5000",
+    "government": "3.5700",
+    "politicalParticipation": 5,
+    "politicalCulture": "3.1300",
+    "civilLiberties": "4.4100",
+    "pop2021": "4775.1190"
+  },
+  {
+    "country": "Palestine",
+    "democracyScore": "3.8900",
+    "pluralism": "3.3300",
+    "government": "0.1400",
+    "politicalParticipation": "7.7800",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "4.3800",
+    "pop2021": "5222.7480"
+  },
+  {
+    "country": "Iraq",
+    "democracyScore": "3.7400",
+    "pluralism": "5.2500",
+    "government": 0,
+    "politicalParticipation": "6.6700",
+    "politicalCulture": 5,
+    "civilLiberties": "1.7600",
+    "pop2021": "41179.3500"
+  },
+  {
+    "country": "Angola",
+    "democracyScore": "3.7200",
+    "pluralism": "2.2500",
+    "government": "2.8600",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": 5,
+    "civilLiberties": "2.9400",
+    "pop2021": "33933.6100"
+  },
+  {
+    "country": "Mozambique",
+    "democracyScore": "3.6500",
+    "pluralism": "2.5800",
+    "government": "2.1400",
+    "politicalParticipation": 5,
+    "politicalCulture": 5,
+    "civilLiberties": "3.5300",
+    "pop2021": "32163.0470"
+  },
+  {
+    "country": "Gabon",
+    "democracyScore": "3.6100",
+    "pluralism": "2.5800",
+    "government": "2.2100",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": 5,
+    "civilLiberties": "3.8200",
+    "pop2021": "2278.8250"
+  },
+  {
+    "country": "Nicaragua",
+    "democracyScore": "3.5500",
+    "pluralism": "1.2500",
+    "government": "2.8600",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "2.3500",
+    "pop2021": "6702.3850"
+  },
+  {
+    "country": "Myanmar",
+    "democracyScore": "3.5500",
+    "pluralism": "3.0800",
+    "government": "3.9300",
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "2.3500",
+    "pop2021": "54806.0120"
+  },
+  {
+    "country": "Cambodia",
+    "democracyScore": "3.5300",
+    "pluralism": "0.8300",
+    "government": "4.6400",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "3.2400",
+    "pop2021": "16946.4380"
+  },
+  {
+    "country": "Ethiopia",
+    "democracyScore": "3.4400",
+    "pluralism": "0.4200",
+    "government": "3.5700",
+    "politicalParticipation": "5.5600",
+    "politicalCulture": 5,
+    "civilLiberties": "2.6500",
+    "pop2021": "117876.2270"
+  },
+  {
+    "country": "Togo",
+    "democracyScore": "3.3000",
+    "pluralism": "3.1700",
+    "government": "1.7900",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": 5,
+    "civilLiberties": "3.2400",
+    "pop2021": "8478.2500"
+  },
+  {
+    "country": "Qatar",
+    "democracyScore": "3.1900",
+    "pluralism": 0,
+    "government": "4.2900",
+    "politicalParticipation": "2.2200",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "3.8200",
+    "pop2021": "2930.5280"
+  },
+  {
+    "country": "Rwanda",
+    "democracyScore": "3.1600",
+    "pluralism": "1.4200",
+    "government": "4.2900",
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "2.9400",
+    "pop2021": "13276.5130"
+  },
+  {
+    "country": "Zimbabwe",
+    "democracyScore": "3.1600",
+    "pluralism": 0,
+    "government": "2.5000",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "3.2400",
+    "pop2021": "15092.1710"
+  },
+  {
+    "country": "Comoros",
+    "democracyScore": "3.1500",
+    "pluralism": "2.0800",
+    "government": "2.2100",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "3.8200",
+    "pop2021": "888.4510"
+  },
+  {
+    "country": "Eswatini",
+    "democracyScore": "3.1400",
+    "pluralism": "0.9200",
+    "government": "2.8600",
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "3.5300",
+    "pop2021": "1172.3620"
+  },
+  {
+    "country": "Guinea",
+    "democracyScore": "3.1400",
+    "pluralism": "3.5000",
+    "government": "0.4300",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "2.9400",
+    "pop2021": "13497.2440"
+  },
+  {
+    "country": "Republic of the Congo",
+    "democracyScore": "3.1100",
+    "pluralism": "2.1700",
+    "government": "2.5000",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "3.2400",
+    "pop2021": "5657.0130"
+  },
+  {
+    "country": "Russia",
+    "democracyScore": "3.1100",
+    "pluralism": "2.1700",
+    "government": "1.7900",
+    "politicalParticipation": 5,
+    "politicalCulture": "2.5000",
+    "civilLiberties": "4.1200",
+    "pop2021": "145912.0250"
+  },
+  {
+    "country": "Vietnam",
+    "democracyScore": "3.0800",
+    "pluralism": 0,
+    "government": "3.2100",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "2.6500",
+    "pop2021": "98168.8330"
+  },
+  {
+    "country": "Oman",
+    "democracyScore": "3.0600",
+    "pluralism": "2.6700",
+    "government": "3.2100",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "2.3500",
+    "pop2021": "5223.3750"
+  },
+  {
+    "country": "Egypt",
+    "democracyScore": "3.0600",
+    "pluralism": "2.6700",
+    "government": "3.2100",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "2.3500",
+    "pop2021": "104258.3270"
+  },
+  {
+    "country": "Venezuela",
+    "democracyScore": "2.8800",
+    "pluralism": 0,
+    "government": "1.7900",
+    "politicalParticipation": 5,
+    "politicalCulture": "4.3800",
+    "civilLiberties": "3.2400",
+    "pop2021": "28704.9540"
+  },
+  {
+    "country": "Cameroon",
+    "democracyScore": "2.8500",
+    "pluralism": "1.6700",
+    "government": "2.5000",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "2.3500",
+    "pop2021": "27224.2650"
+  },
+  {
+    "country": "Afghanistan",
+    "democracyScore": "2.8500",
+    "pluralism": "3.4200",
+    "government": "0.6400",
+    "politicalParticipation": "3.8900",
+    "civilLiberties": "3.8200",
+    "pop2021": "39835.4280"
+  },
+  {
+    "country": "Cuba",
+    "democracyScore": "2.8400",
+    "pluralism": 0,
+    "government": "3.5700",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "2.9400",
+    "pop2021": "11317.5050"
+  },
+  {
+    "country": "Djibouti",
+    "democracyScore": "2.7700",
+    "pluralism": "0.4200",
+    "government": "1.2900",
+    "politicalParticipation": "3.8900",
+    "politicalCulture": "5.6300",
+    "civilLiberties": "2.6500",
+    "pop2021": "1002.1870"
+  },
+  {
+    "country": "United Arab Emirates",
+    "democracyScore": "2.7600",
+    "pluralism": 0,
+    "government": "3.9300",
+    "politicalParticipation": "2.2200",
+    "politicalCulture": 5,
+    "civilLiberties": "2.6500",
+    "pop2021": "9991.0890"
+  },
+  {
+    "country": "Azerbaijan",
+    "democracyScore": "2.7500",
+    "pluralism": "0.5000",
+    "government": "3.2100",
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "3.5300",
+    "pop2021": "10223.3420"
+  },
+  {
+    "country": "Sudan",
+    "democracyScore": "2.7000",
+    "pluralism": 0,
+    "government": "1.7900",
+    "politicalParticipation": 5,
+    "civilLiberties": "1.1800",
+    "pop2021": "44909.3530"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "democracyScore": "2.6300",
+    "pluralism": "4.9200",
+    "government": 0,
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "3.1300",
+    "civilLiberties": "2.3500",
+    "pop2021": "2015.4940"
+  },
+  {
+    "country": "Bahrain",
+    "democracyScore": "2.5500",
+    "pluralism": "0.8300",
+    "government": "2.7100",
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "2.0600",
+    "pop2021": "1748.2960"
+  },
+  {
+    "country": "Belarus",
+    "democracyScore": "2.4800",
+    "pluralism": "0.9200",
+    "government": 2,
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "2.3500",
+    "pop2021": "9442.8620"
+  },
+  {
+    "country": "Iran",
+    "democracyScore": "2.3800",
+    "pluralism": 0,
+    "government": "2.8600",
+    "politicalParticipation": "4.4400",
+    "politicalCulture": "3.1300",
+    "civilLiberties": "1.4700",
+    "pop2021": "85028.7590"
+  },
+  {
+    "country": "Eritrea",
+    "democracyScore": "2.3700",
+    "pluralism": 0,
+    "government": "2.1400",
+    "politicalParticipation": "1.6700",
+    "politicalCulture": "6.8800",
+    "civilLiberties": "1.1800",
+    "pop2021": "3601.4670"
+  },
+  {
+    "country": "China",
+    "democracyScore": "2.2600",
+    "pluralism": 0,
+    "government": "4.2900",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "2.5000",
+    "civilLiberties": "1.1800",
+    "pop2021": "1444216.1070"
+  },
+  {
+    "country": "Burundi",
+    "democracyScore": "2.1500",
+    "pluralism": 0,
+    "government": "0.0700",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": 5,
+    "civilLiberties": "2.3500",
+    "pop2021": "12255.4330"
+  },
+  {
+    "country": "Laos",
+    "democracyScore": "2.1400",
+    "pluralism": 0,
+    "government": "2.8600",
+    "politicalParticipation": "1.6700",
+    "politicalCulture": 5,
+    "civilLiberties": "0.8800",
+    "pop2021": "7379.3580"
+  },
+  {
+    "country": "Libya",
+    "democracyScore": "2.0200",
+    "pluralism": 0,
+    "government": 0,
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "2.9400",
+    "pop2021": "6958.5320"
+  },
+  {
+    "country": "Uzbekistan",
+    "democracyScore": "2.0100",
+    "pluralism": "0.0800",
+    "government": "1.8600",
+    "politicalParticipation": "2.2200",
+    "politicalCulture": 5,
+    "civilLiberties": "0.8800",
+    "pop2021": "33935.7630"
+  },
+  {
+    "country": "Yemen",
+    "democracyScore": "1.9500",
+    "pluralism": 0,
+    "government": 0,
+    "politicalParticipation": "3.8900",
+    "politicalCulture": 5,
+    "civilLiberties": "0.8800",
+    "pop2021": "30490.6400"
+  },
+  {
+    "country": "Tajikistan",
+    "democracyScore": "1.9300",
+    "pluralism": "0.0800",
+    "government": "0.7900",
+    "politicalParticipation": "1.6700",
+    "politicalCulture": "6.2500",
+    "civilLiberties": "0.8800",
+    "pop2021": "9749.6270"
+  },
+  {
+    "country": "Saudi Arabia",
+    "democracyScore": "1.9300",
+    "pluralism": 0,
+    "government": "2.8600",
+    "politicalParticipation": "2.2200",
+    "politicalCulture": "3.1300",
+    "civilLiberties": "1.4700",
+    "pop2021": "35340.6830"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "democracyScore": "1.9200",
+    "pluralism": 0,
+    "government": "0.4300",
+    "politicalParticipation": "3.3300",
+    "politicalCulture": "4.3800",
+    "civilLiberties": "1.4700",
+    "pop2021": "1449.8960"
+  },
+  {
+    "country": "Turkmenistan",
+    "democracyScore": "1.7200",
+    "pluralism": 0,
+    "government": "0.7900",
+    "politicalParticipation": "2.2200",
+    "politicalCulture": 5,
+    "civilLiberties": "0.5900",
+    "pop2021": "6117.9240"
+  },
+  {
+    "country": "Chad",
+    "democracyScore": "1.6100",
+    "pluralism": 0,
+    "government": 0,
+    "politicalParticipation": "1.6700",
+    "politicalCulture": "3.7500",
+    "civilLiberties": "2.6500",
+    "pop2021": "16914.9850"
+  },
+  {
+    "country": "Syria",
+    "democracyScore": "1.4300",
+    "pluralism": 0,
+    "government": 0,
+    "politicalParticipation": "2.7800",
+    "politicalCulture": "4.3800",
+    "civilLiberties": 0,
+    "pop2021": "18275.7020"
+  },
+  {
+    "country": "Central African Republic",
+    "democracyScore": "1.3200",
+    "pluralism": "1.2500",
+    "government": 0,
+    "politicalParticipation": "1.1100",
+    "politicalCulture": "1.8800",
+    "civilLiberties": "2.3500",
+    "pop2021": "4919.9810"
+  },
+  {
+    "country": "North Korea",
+    "democracyScore": "1.0800",
+    "pluralism": 0,
+    "government": "2.5000",
+    "politicalParticipation": "1.6700",
+    "politicalCulture": "1.2500",
+    "civilLiberties": 0,
+    "pop2021": "25887.0410"
+  }
+]
