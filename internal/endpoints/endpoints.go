@@ -219,8 +219,8 @@ func handleMainEndpoint(w http.ResponseWriter, r *http.Request) {
 			if !democracyFound {
 				contents += "We could not find your democracy score.<br>\n"
 			} else {
-				contents += "Democracy score: " + fmt.Sprintf("%f", score) + "\n"
-				contents += "Democracies scoring " + fmt.Sprintf("%f", minimumScore) + " or higher are considered democracies.\n"
+				contents += "Democracy score: " + fmt.Sprintf("%f", score) + "<br>\n"
+				contents += "<i>Democracies scoring " + fmt.Sprintf("%f", minimumScore) + " or higher are considered democracies.</i><br>\n"
 			}
 		}
 		contents += "</div>\n"
