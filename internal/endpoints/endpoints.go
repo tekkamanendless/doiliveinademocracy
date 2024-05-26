@@ -174,7 +174,7 @@ func handleMainEndpoint(w http.ResponseWriter, r *http.Request) {
 				scoreString := democracy["democracyCountries_score2024"]
 				logrus.WithContext(ctx).Infof("Score string: %s", scoreString)
 
-				category := democracy["democracyCountries_category"]
+				category = fmt.Sprintf("%v", democracy["democracyCountries_category"])
 				logrus.WithContext(ctx).Infof("Category: %s", category)
 
 				var err error
