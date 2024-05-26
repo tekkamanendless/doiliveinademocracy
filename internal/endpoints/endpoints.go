@@ -139,6 +139,7 @@ func handleMainEndpoint(w http.ResponseWriter, r *http.Request) {
 	var countryName string
 	var democracyFound bool
 	var score float64
+	var category string
 	answer := "Unknown"
 	const minimumScore = 8.01
 
@@ -170,8 +171,11 @@ func handleMainEndpoint(w http.ResponseWriter, r *http.Request) {
 			if fmt.Sprintf("%v", democracy["country"]) == countryName {
 				democracyFound = true
 
-				scoreString := democracy["democracyScore"]
+				scoreString := democracy["democracyCountries_score2024"]
 				logrus.WithContext(ctx).Infof("Score string: %s", scoreString)
+
+				category := democracy["democracyCountries_category"]
+				logrus.WithContext(ctx).Infof("Category: %s", category)
 
 				var err error
 				score, err = strconv.ParseFloat(fmt.Sprintf("%v", scoreString), 64)
@@ -219,7 +223,7 @@ func handleMainEndpoint(w http.ResponseWriter, r *http.Request) {
 			if !democracyFound {
 				contents += "We could not find your democracy score.<br>\n"
 			} else {
-				contents += "Democracy score: " + fmt.Sprintf("%0.2f", score) + "<br>\n"
+				contents += "Democracy score: " + fmt.Sprintf("%0.2f", score) + " (" + category + ")<br>\n"
 				contents += "<i>Countries scoring " + fmt.Sprintf("%0.2f", minimumScore) + " or higher are considered democracies.  See <a href=\"https://worldpopulationreview.com/country-rankings/democracy-countries\">this link</a> for more details.</i><br>\n"
 			}
 		}

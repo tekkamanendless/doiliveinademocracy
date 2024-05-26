@@ -1,6 +1,7 @@
 all:
 
-googleCloudProject = $(shell cat config.json | jq -r .project)
+PROJECT_ID = $(shell cat config.json | jq -r .project)
+LOCATION = $(shell cat config.json | jq -r .location)
 
 # `make help` will list all of the targets in this Makefile.
 # See: https://stackoverflow.com/questions/4219255/how-do-you-get-the-list-of-targets-in-a-makefile
@@ -27,9 +28,9 @@ run:
 
 .PHONY: deploy
 deploy: test
-	gcloud functions deploy doiliveinademocracy --runtime go113 --trigger-http --entry-point CloudFunction --allow-unauthenticated --update-env-vars GOOGLE_CLOUD_PROJECT=$(googleCloudProject) --project $(googleCloudProject)
+	gcloud functions deploy doiliveinademocracy --gen2 --runtime go122 --trigger-http --entry-point CloudFunction --allow-unauthenticated --update-env-vars GOOGLE_CLOUD_PROJECT=$(PROJECT_ID) --project $(PROJECT_ID) --region $(LOCATION)
 
 .PHONY: what
 what:
-	@echo $(googleCloudProject)
+	@echo $(PROJECT_ID)
 

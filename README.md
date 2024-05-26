@@ -57,6 +57,6 @@ For more information, see [the concepts docs](https://cloud.google.com/functions
 Push the function to the cloud.
 
 ```
-gcloud functions deploy doiliveinademocracy --runtime go113 --trigger-http --entry-point CloudFunction --allow-unauthenticated --project YOUR_PROJECT
+gcloud functions deploy doiliveinademocracy --gen2 --runtime go122 --trigger-http --entry-point CloudFunction --allow-unauthenticated --project YOUR_PROJECT
 ```
 
